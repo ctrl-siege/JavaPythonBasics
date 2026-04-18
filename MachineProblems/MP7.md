@@ -7,6 +7,8 @@ Input 15 integers into an array. It should display:
 - Count of positive numbers
 - Count of negative numbers
 
+Constraits: 0 is neither a positive or negative number.
+
 Sample input:
 ```
 3

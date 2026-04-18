@@ -7,10 +7,6 @@ Create a program that accepts 10 student grades. It should display:
 - The lowest grade
 - The number of students who passed (passing grade = 75)
 
-Input:
-
-Output:
-
 Constraints: Do NOT use built-in min/max functions.
 
 Sample input:
